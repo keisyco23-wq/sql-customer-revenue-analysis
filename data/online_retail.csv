@@ -1,0 +1,21 @@
+sql-customer-revenue-analysis/
+
+│
+├── data/
+│   └── online_retail.csv
+│
+├── sql/
+│   ├── 01_data_cleaning.sql
+│   ├── 02_exploratory_analysis.sql
+│   ├── 03_customer_segmentation.sql
+│   ├── 04_revenue_analysis.sql
+│   ├── 05_retention_analysis.sql
+│   └── 06_kpi_queries.sql
+│
+├── dashboard/
+│   └── powerbi_dashboard.pbix
+│
+├── images/
+│   └── dashboard_preview.png
+│
+└── README.md
